@@ -1,7 +1,7 @@
 Quick Bit (QBTC)
 ========
 
-Quick Bit is a peer-to-peer protocol that extends the functionality of the Bitcoin network while maintaining decentralization by facilitating transactionson a side ledger and managing distributed private key storage.
+Quick Bit is a peer-to-peer protocol that extends the functionality of the Bitcoin network while maintaining decentralization by facilitating transactions on a side ledger and managing distributed private key storage.
 
 What extended functionality / utility will Quick Bit provide?
 
