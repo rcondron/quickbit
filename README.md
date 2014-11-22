@@ -18,6 +18,8 @@ Quick Bit is a digital currency that is pegged to Bitcoin. One QBTC is equal to 
 
 The Quick Bit network is essentially a ledger of shared Bitcoin addresses that keeps track of what each Quick Bit wallet owns.
 
+![capture](https://cloud.githubusercontent.com/assets/216207/5153293/75b4a5a8-71d5-11e4-84a6-a04a8fb1a0c4.PNG)
+
 ![newaddress](https://cloud.githubusercontent.com/assets/216207/5100745/b4cc5bc2-6f60-11e4-9429-9b60bbfe5b7d.PNG)
 
 ![sending](https://cloud.githubusercontent.com/assets/216207/5100744/b4ca1006-6f60-11e4-98d7-695987eae1c4.PNG)
